@@ -10,7 +10,11 @@ Problem:
 - There are button with no function
 
 Solution 1
+![Gambar1](/image/gambar1.jpg)
+
 Solution 2
+![Gambar1](/image/gambar2.jpg)
+
 Solution 3
 
 ### 2. Version Differences
