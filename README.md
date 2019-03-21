@@ -16,6 +16,7 @@ Solution 2
 ![Gambar1](/image/gambar2.jpg)
 
 Solution 3
+![Gambar3](/image/gambar3.jpg)
 
 ### 2. Version Differences
 Solution 1
@@ -44,6 +45,15 @@ Solution 2
 
 Solution 3
 ```
+* Menu on the navbar not to show all from the start page
+* Search column move to the navbar
+* Didn't have button "Halaman Utama". It is replace by KCV's Logo on the navbar
+* Didn't have image slider
+* Latest post on the start page
+* The latest news move to the right image slider
+* Bottom menu has more option
+* KCV's Logo in the bottom put to the footer
+* "Kontak" move to bottom too
 ```
 
 ### 3. Selected Sketch
