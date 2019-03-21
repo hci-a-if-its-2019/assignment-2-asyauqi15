@@ -1,52 +1,79 @@
 # Sketching and Prototyping
-Using the information in the results of Assignment 1 for what is good and bad about the UI for designed tasks, we are going to make **Sketches** and **Prototypes**. These sketches and prototypes will lead to better design in Assignment 3. The prototypes will be then tested through a usability evaluation followed by design revision in Assignment 4.
 
 ## Part A: Sketches
-Sketch at least **3 (three)** different UIs for the functions you are targeting. These three interfaces should be _dramatically different_ in terms of design directions. For example, they can be with different organizations of what functions on each screen or using a different layout of the icons, widgets, and menus on the screens. If you want, you can also incorporate non-on-screen UIs: physical buttons, gestures through motion sensors, etc.
-
-You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+Problem:
+- Many button with same function, like "Dosen Anggota KCV" on navbar with "Dosen Anggota" in menu bar on the left side
+- Placement of each component is not good
+- Have 2 navbar
+- There are button with no function
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+Solution 1
+Solution 2
+Solution 3
 
 ### 2. Version Differences
+Solution 1
 ```
-Please write a paragraph talking about the differences between the versions
+* The navbar still left one with the complete nav
+* Search column move to the navbar
+* Didn't have button "Halaman Utama". It is replace by KCV's Logo on the navbar
+* Image slider width 100% to screen, its contain photo of KCV activity
+* Has "About" that will help people know what is KCV
+* Only show some News. The other news show in the different page
+* The option in "Laboratorium IF" move to bottom
+* "Kontak" move to bottom too
+```
+
+Solution 2
+```
+* Menu on the navbar not to show all from the start page
+* Search column move to the navbar
+* Didn't have button "Halaman Utama". It is replace by KCV's Logo on the navbar
+* Image slider's width not 100%
+* The latest news move to the right image slider
+* Bottom menu has more option
+* KCV's Logo in the bottom put to the footer
+* "Kontak" move to bottom too
+```
+
+Solution 3
+```
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+The writers choose solution one because in writes's opinion, 
+- Have better design
+- Has complete feature 
+- Easy to use
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+In assignment-1 , I have interview with a user to test a website.
+He feel confused to do my instruction because of some design.
+He has trouble to see the other post, because the button not too visible.
+He said that the design of this website too boring.
+Search column not easy to find because the position no eye catching.
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Screen size : 14 inch
+Screen resolution : higher than 640 x 480 , ratio 4:3 with color
+Computer minimum reqirement: 
+	Processir:  Intel Core 2 Duo 2.0 GHz, AMD Athlon 64 X2 2.0 GHz or better,
+	VGA : Intel HD Graphic, 
+	RAM : 2 GB
+Physical button : mouse and keyboard
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+Every people in 13-40 ages can use this website. 
+The user atleast have experience using a website in computer or gadget.
 ```
 
 ## Part C: Prototypes
