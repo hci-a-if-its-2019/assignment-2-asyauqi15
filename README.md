@@ -93,7 +93,7 @@ The user atleast have experience using a website in computer or gadget.
 ## Part C: Prototypes
 
 ### Freehand
-![Gambar4](/image/All.jpg)
+![Gambar4](/image/All.JPG)
 Check this link: https://projects.invisionapp.com/freehand/document/yxNcV0vFS
 
 ### Prototype
