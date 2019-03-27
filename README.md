@@ -91,4 +91,10 @@ The user atleast have experience using a website in computer or gadget.
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+### Freehand
+![Gambar4](/image/All.jpg)
+Check this link: https://projects.invisionapp.com/freehand/document/yxNcV0vFS
+
+### Prototype
+Check this link: https://invis.io/X9R8R3OUFVN
