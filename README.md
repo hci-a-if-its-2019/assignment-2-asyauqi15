@@ -98,3 +98,5 @@ Check this link: https://projects.invisionapp.com/freehand/document/yxNcV0vFS
 
 ### Prototype
 Check this link: https://invis.io/X9R8R3OUFVN
+
+High Fidelity: https://invis.io/F6RD6D5Y7HW
